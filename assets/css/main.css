@@ -1043,7 +1043,7 @@ button {
 }
 
 .about-bg {
-    background: url('../img/portfolio/sujoy-karmakar.png') center center no-repeat;
+    background: url('../img/about/sujoy-karmakar.png') center center no-repeat;
     background-size: cover;
 }
 
@@ -1293,6 +1293,37 @@ p.author-text {
 
 .project-detail-1 {
     background: url('../img/portfolio/3.jpg') center center no-repeat;
+    background-size: cover;
+}
+
+/* thumbnail/cover for all projects */
+.landify-cover {
+    background: url('../img/single-portfolio/Landify/landify-cover.png') center center no-repeat;
+    background-size: cover;
+}
+
+.kyra-cover {
+    background: url('../img/single-portfolio/kyra/kyra-cover.png') center center no-repeat;
+    background-size: cover;
+}
+
+.staylowkey-cover {
+    background: url('../img/single-portfolio/staylowkey/staylowkey-cover.png') center center no-repeat;
+    background-size: cover;
+}
+
+.portability-cover {
+    background: url('../img/single-portfolio/portability/portability-cover.png') center center no-repeat;
+    background-size: cover;
+}
+
+.clipping-cover {
+    background: url('../img/single-portfolio/clipping/clipping-cover.png') center center no-repeat;
+    background-size: cover;
+}
+
+.estern-cover {
+    background: url('../img/single-portfolio/estern/estern-cover.png') center center no-repeat;
     background-size: cover;
 }
 
