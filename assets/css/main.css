@@ -1327,6 +1327,32 @@ p.author-text {
     background-size: cover;
 }
 
+.bizzency-cover {
+    background: url('../img/single-portfolio/bizzency/bizzency-cover.png') center center no-repeat;
+    background-size: cover;
+}
+
+.beatls-cover {
+    background: url('../img/single-portfolio/beatls/beatls-cover.png') center center no-repeat;
+    background-size: cover;
+}
+
+.kerstfeest-cover {
+    background: url('../img/single-portfolio/kerstfeest/kerstfeest-cover.png') center center no-repeat;
+    background-size: cover;
+}
+
+.plaidia-cover {
+    background: url('../img/single-portfolio/plaidia/plaidia-cover.png') center center no-repeat;
+    background-size: cover;
+}
+
+.valentina-cover {
+    background: url('../img/single-portfolio/valentina/valentina-cover.png') center center no-repeat;
+    background-size: cover;
+}
+
+
 /* thumbnail/cover for all projects finish */
 
 .detailes {
