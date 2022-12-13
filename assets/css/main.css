@@ -1352,6 +1352,25 @@ p.author-text {
     background-size: cover;
 }
 
+.sketchbox-cover {
+    background: url('../img/single-portfolio/sketchbox/sketchbox-cover.png') center center no-repeat;
+    background-size: cover;
+}
+
+.groupchat-cover {
+    background: url('../img/single-portfolio/groupchat/groupchat-cover.png') center center no-repeat;
+    background-size: cover;
+}
+
+.mapveto-cover {
+    background: url('../img/single-portfolio/mapveto/mapveto-cover.png') center center no-repeat;
+    background-size: cover;
+}
+
+.ghibli-movies-cover {
+    background: url('../img/single-portfolio/ghibli-movies/ghibli-movies-cover.png') center center no-repeat;
+    background-size: cover;
+}
 
 /* thumbnail/cover for all projects finish */
 
