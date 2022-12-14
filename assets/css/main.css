@@ -1372,6 +1372,11 @@ p.author-text {
     background-size: cover;
 }
 
+.soundboard-cover {
+    background: url('../img/single-portfolio/soundboard/soundboard-cover.png') center center no-repeat;
+    background-size: cover;
+}
+
 /* thumbnail/cover for all projects finish */
 
 .detailes {
