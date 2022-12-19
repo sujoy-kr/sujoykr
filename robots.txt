@@ -1,6 +1,3 @@
 User-agent: *
 Disallow: 
-Disallow: /single-project
-Disallow: /home-single
-Disallow: /home-multi-vert
 Sitemap: https://sujoykr.com/sitemap.xml
