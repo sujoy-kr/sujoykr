@@ -739,8 +739,18 @@ body {
     font-style: italic;
 }
 
-.head-text {
-    display: block;
+.title-work h3 {
+    position: relative;
+    overflow: hidden;
+    color: #fff;
+    font-family: 'Playfair Display', serif;
+    font-weight: 900;
+    font-size: 30px;
+    height: 50px;
+    padding-left: 5px;
+    padding-right: 5px;
+    margin: 0;
+    font-style: italic;
 }
 
 .tag-head {
@@ -1379,6 +1389,11 @@ p.author-text {
 
 .instagram-clone-cover {
     background: url('../img/single-portfolio/instagram-clone/instagram-clone-cover.png') center center no-repeat;
+    background-size: cover;
+}
+
+.sujoykr-banner-cover {
+    background: url('../img/about/sujoy-karmakar.png') center center no-repeat;
     background-size: cover;
 }
 
